@@ -8,11 +8,11 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.blogger</groupId>
-	<artifactId>blog</artifactId>
+	<groupId>com.life</groupId>
+	<artifactId>journalise</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>autoBlog</name>
-	<description>APIs for autoBlog app</description>
+	<name>journalise</name>
+	<description>APIs journal app</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
