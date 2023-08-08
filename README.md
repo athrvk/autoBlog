@@ -1,1 +1,1 @@
-# autoBlog
+# journalise
